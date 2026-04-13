@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="mailto:santoshsahu01012020@gmail.com">
+  <a href="/cdn-cgi/l/email-protection#0c7f6d6278637f647f6d64793c3d3c3d3e3c3e3c4c6b616d6560226f6361">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/pratima-sahu">
@@ -106,12 +106,15 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pratima180&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pratima180&layout=compact&theme=tokyonight&hide_border=true" width="40%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Pratima180&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pratima180&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" width="40%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pratima180&theme=tokyonight&hide_border=true" width="55%"/>
 </p>
 
 ---
 
 <p align="center">
-  <i>"Building technology that makes lives safer, smarter, and better."</i> 🚀
-</p>
+  <i>"Building technology that mak
