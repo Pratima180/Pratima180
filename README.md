@@ -106,15 +106,15 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pratima180&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pratima180&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" width="40%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pratima180&theme=tokyonight&hide_border=true" width="55%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pratima180&theme=tokyonight&hide_border=true" width="55%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pratima180&theme=tokyonight" width="90%"/>
 </p>
 
 ---
 
 <p align="center">
-  <i>"Building technology that mak
+  <i>"Building technology that makes lives safer, smarter, and better."</i> 🚀
+</p>
